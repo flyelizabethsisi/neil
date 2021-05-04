@@ -19,14 +19,14 @@
 
         <Button
             android:id="@+id/hellomoon_playButton"
+            android:layout_width="160dp"
             android:layout_height="wrap_content"
-            android:layout_weight="match_parent"
             android:text="@string/hellomoon_play" />
 
         <Button
             android:id="@+id/hellomoon_stopButton"
-            android:layout_height="match_parent"
-            android:layout_weight="wrap_content"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
             android:text="@string/hellomoon_stop" />
     </TableRow>
 
